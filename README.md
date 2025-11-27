@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Siddhartha and I'm a CompSci student, from Bengaluru,India</h2>
+<h2 align="left">Hi 👋! My name is Siddhartha and I'm a CompSci student, from Bengaluru, India</h2>
 
 ###
 
