@@ -21,7 +21,7 @@
   <img 
   src="https://github-readme-stats.vercel.app/api/top-langs?username=sid-zyy&layout=compact&langs_count=5&theme=dracula&hide_border=false&cache_seconds=7200" 
   height="150"
-/>
+  />
 
 </div>
 
