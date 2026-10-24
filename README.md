@@ -73,13 +73,6 @@ I like knowing how things work underneath: memory allocators, shells, and what a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
 </div>
 
-### 📊 Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sid-zyy&show_icons=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sid-zyy&layout=compact&theme=dracula" height="150" alt="top languages" />
-</div>
-
 ### 📫 Reach me
 
 <div align="left">
